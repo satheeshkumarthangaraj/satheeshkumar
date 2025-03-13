@@ -1,0 +1,123 @@
+/*
+body
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(211, 143, 182);
+    font-size:larger;
+    font-weight: 100;
+    color: aqua;
+}
+.nav ul
+{
+    list-style-type: none;
+    padding: 0px;
+    background-color: rgb(93, 79, 107);
+    margin: 10px;
+    overflow: hidden;
+}
+.nav a
+{
+    text-align: center;
+    color: white;
+    padding: 15px;
+    display: block;
+    text-decoration: none;
+}
+.nav a:hover
+{
+    background-color: rgb(186, 218, 181);
+    color: beige;
+}
+
+.nav li{
+    float: left;
+}
+/* styles.css */
+/*
+td {
+    background-color: lightblue;
+    color: darkblue;
+    padding: 10px;
+}
+
+.highlight {
+    background-color: lightgreen;
+    color: darkgreen;
+}
+*/
+/*
+.table
+{
+    background-color: blueviolet;
+    color: rgb(8, 35, 59);
+}
+*/
+
+body
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(17, 136, 86);
+    font-size:larger;
+    font-weight: 100;
+    color: aqua;
+}
+
+.nav ul
+{
+    height: fit-content;
+    width:100%; 
+    list-style-type: none;
+    padding-left: 0px;
+    padding-right: 10%;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    background-color: rgb(93, 79, 107);
+    margin: 0px;
+    position: fixed;
+    overflow: hidden;
+}
+.nav a
+{
+    text-align: center;
+    color: white;
+    padding-left: 5px;
+    padding: 10px;
+    display: block;
+    text-decoration:antiquewhite;
+}
+.nav a:hover
+{
+    background-color: rgb(186, 218, 181);
+    color: beige;
+    background-color: rgb(50, 102, 105);
+    color: rgb(223, 223, 42);
+}
+
+.nav li{
+    float: left;
+}
+/* styles.css */
+/*
+td {
+    background-color: lightblue;
+    color: darkblue;
+    padding: 10px;
+}
+.highlight {
+    background-color: lightgreen;
+    color: darkgreen;
+}
+*/
+.table
+{
+    background-color: blueviolet;
+    color: rgb(8, 35, 59);
+}
+.img1
+{
+    border-radius: 50%;
+    padding-left: 0%;
+    padding-top: 60px;
+}
+
+ 
